@@ -4,17 +4,6 @@
 # In[ ]:
 
 
-# [Linh, Dang]
-# [20195426]
-# [MMA]
-# [Winter 2021]
-# [MMA 869]
-# [15 August 2020]
-
-
-# Answer to Question [1]
-
-
 # ## IMPORT LIBRARIES AND SET SYSTEM OPTIONS
 
 # In[665]:
